@@ -1,0 +1,1 @@
+g++ -std=c++17 -O2 -municode -mwindows -o sl_v3.exe sl_v3.cpp -lgdi32 -luser32 -static 2>&1
